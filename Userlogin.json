@@ -3,27 +3,27 @@
         "device_id": "23342ac8b4b2a701",
         "username": "Revenge",
         "password": "Revenge123",
-        "expirydate": "31-12-2025",
+        "expirydate": "30-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "12f0149d6514c59d",
         "username": "Atank",
         "password": "Atank123",
-        "expirydate": "15-06-2025",
+        "expirydate": "30-12-2025",
         "Allowoffline": false
     },
         {
         "device_id": "3f65436721712ca0",
         "username": "trigon",
         "password": "trigonx",
-        "expirydate": "15-06-2026",
+        "expirydate": "30-12-2026",
         "Allowoffline": false
         },
         {
-        "device_id": "userid",
-        "username": "username",
-        "password": "UserPassword",
+        "device_id": "9b696ea45697772b",
+        "username": "Sujay",
+        "password": "Sujay123",
         "expirydate": "15-06-2026",
         "Allowoffline": false
         },
