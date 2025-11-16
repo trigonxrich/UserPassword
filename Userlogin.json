@@ -4,7 +4,7 @@
         "username": "Revenge",
         "password": "Revenge123",
         "expirydate": "30-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "12f0149d6514c59d",
@@ -40,7 +40,7 @@
         "username": "ShowTime",
         "password": "ShowTime123",
         "expirydate": "30-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "12f0149d6514c59d",
