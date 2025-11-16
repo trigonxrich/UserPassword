@@ -35,3 +35,40 @@
         "Allowoffline": false
     }
 ]
+
+{
+        "device_id": "23342ac8b4b2a701",
+        "username": "Revenge",
+        "password": "Revenge123",
+        "expirydate": "30-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "12f0149d6514c59d",
+        "username": "Atank",
+        "password": "Atank123",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
+        {
+        "device_id": "3f65436721712ca0",
+        "username": "trigon",
+        "password": "trigonx",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
+        },
+        {
+        "device_id": "9b696ea45697772b",
+        "username": "Sujay",
+        "password": "Sujay123",
+        "expirydate": "30-06-2026",
+        "Allowoffline": false
+        },
+    {
+        "device_id": "223c91937bd0ca43",
+        "username": "KingParaDox",
+        "password": "KingParaDox123",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    }
+]
