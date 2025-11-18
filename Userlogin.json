@@ -70,4 +70,76 @@
         "expirydate": "30-12-2025",
         "Allowoffline": false
     }
+
+{
+        "device_id": "cac4c87d68286f96",
+        "username": "star",
+        "password": "star123",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "username": "Atank",
+        "password": "Atank123",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
+        {
+        "device_id": "",
+        "username": "trigon",
+        "password": "trigonx",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
+        },
+        {
+        "device_id": "",
+        "username": "Sujay",
+        "password": "Sujay123",
+        "expirydate": "30-06-2026",
+        "Allowoffline": false
+        },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
+
+{
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
+        {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
+        },
+        {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "30-06-2026",
+        "Allowoffline": false
+        },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    }
 ]
