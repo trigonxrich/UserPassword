@@ -80,22 +80,22 @@
     },
     {
         "device_id": "",
-        "username": "Atank",
-        "password": "Atank123",
+        "username": "",
+        "password": "",
         "expirydate": "30-12-2025",
         "Allowoffline": false
     },
         {
         "device_id": "",
-        "username": "trigon",
-        "password": "trigonx",
+        "username": "",
+        "password": "",
         "expirydate": "30-12-2026",
         "Allowoffline": false
         },
         {
         "device_id": "",
-        "username": "Sujay",
-        "password": "Sujay123",
+        "username": "",
+        "password": "",
         "expirydate": "30-12-2026",
         "Allowoffline": false
         },
