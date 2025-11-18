@@ -69,7 +69,7 @@
         "password": "Paid123",
         "expirydate": "30-12-2025",
         "Allowoffline": false
-    }
+    },
 
 {
         "device_id": "cac4c87d68286f96",
@@ -96,7 +96,7 @@
         "device_id": "",
         "username": "Sujay",
         "password": "Sujay123",
-        "expirydate": "30-06-2026",
+        "expirydate": "30-12-2026",
         "Allowoffline": false
         },
     {
@@ -141,5 +141,5 @@
         "password": "",
         "expirydate": "30-12-2025",
         "Allowoffline": false
-    }
+    },
 ]
