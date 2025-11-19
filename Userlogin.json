@@ -71,6 +71,42 @@
         "Allowoffline": false
     },
 
+    {
+        "device_id": "3f65436721712ca0",
+        "username": "Trigon",
+        "password": "Trigon123",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "050a86f668d59",
+        "username": "h3xdoctor",
+        "password": "h3xdoctor123",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2d5e9c2a1b32dc",
+        "username": "dadaontop",
+        "password": "dadaontop123",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d8dfd477ae99db",
+        "username": "Qrt",
+        "password": "Qrt123",
+        "expirydate": "30-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "1a4edb9b0fbec9",
+        "username": "Paid",
+        "password": "Paid123",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
+
    {
         "device_id": "cac4c87d68286f96",
         "username": "star",
