@@ -106,6 +106,13 @@
         "expirydate": "30-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "61ce54053acead8b",
+        "username": "abc",
+        "password": "abc123",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
 
    {
         "device_id": "cac4c87d68286f96",
