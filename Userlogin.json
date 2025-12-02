@@ -108,12 +108,12 @@
     },
     {
         "device_id": "61ce54053acead8b",
-        "username": "abc",
-        "password": "abc123",
-        "expirydate": "30-12-2025",
+        "username": "Abc",
+        "password": "Abc123",
+        "expirydate": "30-12-2026",
         "Allowoffline": false
     },
-        {
+    {
         "device_id": "391e850f16160d0b",
         "username": "Op",
         "password": "Op123",
