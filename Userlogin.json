@@ -135,13 +135,13 @@
         "password": "iqoo123",
         "expirydate": "30-12-2026",
         "Allowoffline": false
-    }
+    },
     {
         "device_id": "2f97437be1533e28",
         "username": "trigon",
         "password": "trigon123",
         "expirydate": "30-12-2026",
         "Allowoffline": false
-    },
+    }
 ]
 
