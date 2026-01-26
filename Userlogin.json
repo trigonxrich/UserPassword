@@ -136,6 +136,14 @@
         "expirydate": "30-12-2026",
         "Allowoffline": false
     },
+
+    {
+        "device_id": "a503557d63c09593",
+        "username": "Lgd",
+        "password": "Lgd123",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
+    },
     {
         "device_id": "7539bc0c8e5ce422",
         "username": "trigon",
