@@ -90,7 +90,7 @@
         "username": "guru",
         "password": "guru123",
         "expirydate": "30-12-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "aeae0726e999",
